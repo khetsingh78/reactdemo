@@ -59,3 +59,7 @@ ul a li {
     /* border: 1px solid red; */
     padding: 0px;
 }
+ input:focus{
+    outline: none;
+    box-shadow:none !important;
+}

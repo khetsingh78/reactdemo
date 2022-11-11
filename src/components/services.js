@@ -36,7 +36,7 @@ function Services() {
     ]
 
     return (
-        <div className="fluid-container my-md-5 border">
+        <div className="fluid-container my-md-5">
             <div className="container">
                 <div className="row">
                     <h1 className="text-center text-primary py-md-5 fs-2 fw-bold">Choose Categories</h1>
